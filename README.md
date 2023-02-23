@@ -8,6 +8,8 @@ open the root build file [build.gradle](./build.gradle) and swap to AGP 7.4.1.
 
 Then the app works fine in release mode
 
+You can get the app to work in release mode if you manually copy the rule into the apps [proguard-rules.pro](./app/proguard-rules.pro)
+
 
 ## System
 JDK: Android Studio JDK 17 bundled
